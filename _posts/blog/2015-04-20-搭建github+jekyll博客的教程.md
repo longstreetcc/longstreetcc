@@ -4,7 +4,7 @@ title: 搭建github+jekyll博客的教程
 description: 如何使用Github Page搭建简易博客
 category: blog
 ---
-# [{{ page.title }}][ {{ page.url}}  ({{ page.title }})]
+
 ######2015-04-20-搭建github+jekyll博客的教程.md
 
 前段时间在看技术博客，知道了github可以免费搭建博客，而近期github的接入速度也很快，就一时兴起，根据[一个大牛的搭建教程][1]和[一个详细教程][2]搭建了本博客。
