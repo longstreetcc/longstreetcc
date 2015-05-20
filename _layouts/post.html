@@ -21,24 +21,24 @@ layout: default
 
         <!-- 多说评论框 start -->
         <div class="ds-thread" 
-             data-thread-key="{{ page.date|date: '%Y%m%d%H%M' }}"  
+             data-thread-key="{{ page.date|date: '%Y%m%d' }}"  
              data-title="{% if page.title %} {{ page.title }} {% endif %}" 
-             data-url="{{ site.url }}/{% if page.title != 'about' %}{{ page.date|date:'%Y%m%d' }} {% else %}{{'about'}}{% endif %}">
+             data-url="{{ site.url }}/{{ page.date|date:'%Y%m%d' }} ">
         </div>
-<!-- 多说评论框 end -->
-<!-- 多说公共JS代码 start (一个网页只需插入一次) -->
-<script type="text/javascript">
-var duoshuoQuery = {short_name:"longstreetcc"};
-    (function() {
-        var ds = document.createElement('script');
-        ds.type = 'text/javascript';ds.async = true;
-        ds.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') + '//static.duoshuo.com/embed.js';
-        ds.charset = 'UTF-8';
-        (document.getElementsByTagName('head')[0] 
-         || document.getElementsByTagName('body')[0]).appendChild(ds);
-    })();
-</script>   
-<!-- 多说公共JS代码 end -->
+        <!-- 多说评论框 end -->
+        <!-- 多说公共JS代码 start (一个网页只需插入一次) -->
+        <script type="text/javascript">
+        var duoshuoQuery = {short_name:"longstreetcc"};
+            (function() {
+                var ds = document.createElement('script');
+                ds.type = 'text/javascript';ds.async = true;
+                ds.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') + '//static.duoshuo.com/embed.js';
+                ds.charset = 'UTF-8';
+                (document.getElementsByTagName('head')[0] 
+                 || document.getElementsByTagName('body')[0]).appendChild(ds);
+            })();
+        </script>   
+        <!-- 多说公共JS代码 end -->
     </div>
 
     <div class="sidenav">
