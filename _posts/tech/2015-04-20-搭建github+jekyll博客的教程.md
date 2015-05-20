@@ -30,7 +30,9 @@ category: tech
 
         mkdir -p ~/Blog && cd ~/Blog
         jekyll new .
-        
+        cd ~/Blog
+        jekyll serve
+
     本地简易版博客已搭建好。通过浏览器访问 http://localhost:4000/
 
   3. 修改成个人配置
