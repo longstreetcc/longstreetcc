@@ -7,8 +7,7 @@ layout: home
         <ul class="artical-cate">
             <li class="on"><a href="/"><span>Tech</span></a></li>
             <li style="text-align:center"><a href="/opinion"><span>Opinion</span></a></li>
-            <li style="text-align:right"><a href="{{ page.url | prepend: site.baseurl }}"><span>{{ page.title }}</span></a></li>
-            
+            <li style="text-align:right"><a href="/"><span>About</span></a></li>
         </ul>
 
         <div class="cate-bar"><span id="cateBar"></span></div>

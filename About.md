@@ -1,7 +1,8 @@
 ---
 layout: post
-title: 关于我
+title: About
 description: 关于我
+permalink: /about/
 ---
 ######2015-05-10-关于我.md
 
