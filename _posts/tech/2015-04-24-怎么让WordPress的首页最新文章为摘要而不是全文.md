@@ -2,7 +2,7 @@
 layout: post
 title: 怎么让WordPress的首页最新文章为摘要而不是全文
 description: 解决使用wordpress的主题时首页全文显示的问题
-category: blog
+category: tech
 ---
 
 ######2015-04-24-怎么让WordPress的首页最新文章为摘要而不是全文.md
