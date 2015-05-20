@@ -1,6 +1,7 @@
 ---
 layout: post
 title: About me
+date:   2015-05-20 15:18
 permalink: /about/
 ---
 <!-- ######2015-05-10-关于我.md -->
