@@ -1,8 +1,12 @@
 ---
 layout: post
-title: 谈谈刚需和360影视
-category: opinion
-description: 一个看起来很简单的需求，做起来真的有那么困难吗，到底是怎么回事？
+title: Mac开发环境搭建
+date:   2015-05-20 10:18:37
+description: 手贱 + 强迫症 = 重装系统。 于是有了本文的Mac开发环境搭建。
+category: tech
 ---
 
-[BeiYuu]:    http://beiyuu.com  "BeiYuu"
+
+
+[longstreet]:    http://longstreetcc.github.io  "longstreet"
+
