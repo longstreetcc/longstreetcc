@@ -23,7 +23,7 @@ layout: default
         <div class="ds-thread" 
              data-thread-key="{{ page.date|date: '%Y%m%d%H%M' }}"  
              data-title="{% if page.title %} {{ page.title }} {% endif %}" 
-             data-url="{{ site.url }}/{{ page.date|date:'%Y%m%d' }} ">
+             data-url="{{ site.url }}/{% if page.title != 'about' %}{{ page.date|date:'%Y%m%d' }} {% else %}{{'about'}}{% endif %}">
         </div>
 <!-- 多说评论框 end -->
 <!-- 多说公共JS代码 start (一个网页只需插入一次) -->
