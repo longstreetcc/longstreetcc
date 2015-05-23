@@ -2,7 +2,7 @@
 layout: post
 title: 题目
 description: 摘要。
-category: tech
+category: project
 ---
 
 >   {{post.description}}

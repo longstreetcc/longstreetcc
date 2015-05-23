@@ -2,18 +2,20 @@
 layout: home
 ---
 
-<div class="index-content opinion">
+<div class="index-content book">
     <div class="section">
         <ul class="artical-cate">
             <li><a href="/"><span>Tech</span></a></li>
-            <li class="on" style="text-align:center"><a href="/opinion"><span>Opinion</span></a></li>
-            <li style="text-align:right"><a href="/20150520/"><span>About</span></a></li>
+            <li><a href="/project"><span>Project</span></a></li>
+            <li class="on"><a href="/book"><span>Book</span></a></li>
+            <li><a href="/opinion"><span>Opinion</span></a></li>
+            <li><a href="/20150520"><span>About</span></a></li>
         </ul>
 
         <div class="cate-bar"><span id="cateBar"></span></div>
 
         <ul class="artical-list">
-        {% for post in site.categories.opinion %}
+        {% for post in site.categories.book %}
             <li>
                 <h2>
                     <a href="{{ post.url }}">{{ post.title }}</a>

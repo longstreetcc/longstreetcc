@@ -2,7 +2,7 @@
 layout: post
 title: 搭建github+jekyll博客的教程
 description: 如何使用Github Page搭建简易博客
-category: tech
+category: project
 ---
 
 <!-- ######2015-04-20-搭建github+jekyll博客的教程.md -->
