@@ -6,8 +6,10 @@ category: tech
 ---
 
 <!-- ######2015-04-24-怎么让WordPress的首页最新文章为摘要而不是全文.md -->
+>   {{post.description}}
 
-> 提示：本文针对WordPress的Twenty Twelve主题进行的修改，其他主题都类似修改
+
+提示：本文针对WordPress的Twenty Twelve主题进行的修改，其他主题都类似修改
 
 由于文章太长，将全文摆放在首页难看且浪费网络资源，百度之后，发现有以下解决方案。
 

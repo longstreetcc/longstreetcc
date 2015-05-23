@@ -4,6 +4,7 @@ title: 胡言乱语说简单
 category: opinion
 description: 胡言乱语而已，看看就好。
 ---
+>   {{post.description}}
 
 ##最初的简单
 从第一代iPhone出来，简单这个概念，便疯样的传开来。我怀疑过这是否绝对正确，最终还是服了。

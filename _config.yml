@@ -7,5 +7,5 @@ permalink: /:year:month:day
 
 title: longstreetcc
 url: http://longstreetcc.github.io
-feed: /feed
+feed: /feed.xml
 author_info: <a href="http://longstreetcc.github.io">longstreetcc</a>
