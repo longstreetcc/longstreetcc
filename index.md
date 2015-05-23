@@ -8,7 +8,7 @@ layout: home
             <li class="on"><a href="/"><span>Tech</span></a></li>
             <li><a href="/project"><span>Project</span></a></li>
             <li><a href="/book"><span>Book</span></a></li>
-            <li><a href="/opinion"><span>Opinion</span></a></li>
+            <!-- <li><a href="/opinion"><span>Opinion</span></a></li> -->
             <li><a href="/20150520/"><span>About</span></a></li>
         </ul>
 

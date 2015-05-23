@@ -7,8 +7,8 @@ layout: home
         <ul class="artical-cate">
             <li><a href="/"><span>Tech</span></a></li>
             <li class="on"><a href="/project"><span>Project</span></a></li>
-            <li><a href="/book"><span>Book</span></a></li>
-            <li><a href="/opinion"><span>Opinion</span></a></li>
+            <!-- <li><a href="/book"><span>Book</span></a></li> -->
+            <!-- <li><a href="/opinion"><span>Opinion</span></a></li> -->
             <li><a href="/20150520/"><span>About</span></a></li>
         </ul>
 
